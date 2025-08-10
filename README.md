@@ -29,7 +29,7 @@ While these technologies offer great potential, they also pose significant socia
 **Data Collected:** Transcripts from discussions and written outputs, analyzed using a **thematic analysis** approach.
 
 ## Contents
-- `poster.pdf` – Research poster presented at the Purdue Spring Research Conference 2025
+- `HCI Spring Conference Poster.pdf` – Research poster presented at the Purdue Spring Research Conference 2025
 
 ## Acknowledgments
 Research conducted at Purdue University, Computer Graphics Technology Department.  
